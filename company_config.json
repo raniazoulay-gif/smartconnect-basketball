@@ -1,0 +1,24 @@
+{
+  "company_name": "כדורסל בע\"מ",
+  "tagline": "FIELD MANAGEMENT",
+  "system_name": "SMART CONNECT",
+  "primary_color": "#805100",
+  "secondary_color": "#0d1338",
+  "agent_label": "סוכן",
+  "agents_label": "סוכנים",
+  "store_label": "חנות",
+  "stores_label": "חנויות",
+  "manager_email": "raniazoulay@gmail.com",
+  "agents": [
+    {
+      "name": "ברקוביץ",
+      "username": "Berkovic",
+      "password": "123456"
+    },
+    {
+      "name": "אלימלך",
+      "username": "israel",
+      "password": "123456"
+    }
+  ]
+}
